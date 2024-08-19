@@ -1,1 +1,2 @@
-# pluralsight-c-
+# Pluralsight C++ Path
+
